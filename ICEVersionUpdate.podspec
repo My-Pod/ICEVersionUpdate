@@ -13,6 +13,5 @@ s.source           = { :git => 'https://github.com/My-Pod/ICEVersionUpdate.git',
 
 s.ios.deployment_target = '7.0'
 s.source_files = 'Classes/*.{h,m}'
-s.resources = 'Classes/Xib/*.xib'
 
 end
